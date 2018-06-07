@@ -1,7 +1,7 @@
 # Powerful #
 
 ## Equation ##
-![eq](https://github.com/catpawn/ctf-question-created/tree/master/2018/Powerful/eq.png)
+![eq](https://latex.codecogs.com/gif.latex?enc%3Dflag%5E%7B_%7B1337%7D%7D)
 
 
 ## Intended Solution ##

@@ -1,8 +1,7 @@
 # Ping #
-=============
 
 ## Intended Solution ##
----------------
+
 ### Restrict ###
 * 15 Characters limit
 * Blocked some system command

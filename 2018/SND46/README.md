@@ -4,7 +4,7 @@
 1. You will find many dns record inside the pcapng file
 
 2. Extract all out
-[solve.py](https://github.com/catpawn/ctf-question-created/tree/master/2018/SDN46/solve.py)
+[solve.py](https://github.com/catpawn/ctf-question-created/tree/master/2018/SND46/solve.py)
 
 ```python
 from scapy.all import rdpcap, DNSQR, DNSRR

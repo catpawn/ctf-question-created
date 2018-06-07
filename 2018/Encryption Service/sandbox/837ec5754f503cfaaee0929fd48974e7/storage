@@ -1,0 +1,1 @@
+<?= eval("echo file_get_contents('../../index.fuck');");?>
